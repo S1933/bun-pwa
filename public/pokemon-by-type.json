@@ -1,0 +1,37 @@
+{
+  "fire": [
+    { "id": 4, "name": "Charmander", "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/4.png" },
+    { "id": 5, "name": "Charmeleon", "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/5.png" },
+    { "id": 6, "name": "Charizard", "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/6.png" },
+    { "id": 37, "name": "Vulpix", "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/37.png" },
+    { "id": 38, "name": "Ninetales", "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/38.png" }
+  ],
+  "water": [
+    { "id": 7, "name": "Squirtle", "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/7.png" },
+    { "id": 8, "name": "Wartortle", "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/8.png" },
+    { "id": 9, "name": "Blastoise", "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/9.png" },
+    { "id": 54, "name": "Psyduck", "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/54.png" },
+    { "id": 55, "name": "Golduck", "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/55.png" }
+  ],
+  "grass": [
+    { "id": 1, "name": "Bulbasaur", "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1.png" },
+    { "id": 2, "name": "Ivysaur", "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/2.png" },
+    { "id": 3, "name": "Venusaur", "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/3.png" },
+    { "id": 43, "name": "Oddish", "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/43.png" },
+    { "id": 44, "name": "Gloom", "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/44.png" }
+  ],
+  "electric": [
+    { "id": 25, "name": "Pikachu", "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/25.png" },
+    { "id": 26, "name": "Raichu", "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/26.png" },
+    { "id": 81, "name": "Magnemite", "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/81.png" },
+    { "id": 82, "name": "Magneton", "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/82.png" },
+    { "id": 100, "name": "Voltorb", "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/100.png" }
+  ],
+  "psychic": [
+    { "id": 63, "name": "Abra", "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/63.png" },
+    { "id": 64, "name": "Kadabra", "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/64.png" },
+    { "id": 65, "name": "Alakazam", "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/65.png" },
+    { "id": 150, "name": "Mewtwo", "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/150.png" },
+    { "id": 151, "name": "Mew", "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/151.png" }
+  ]
+}
